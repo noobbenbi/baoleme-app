@@ -9,7 +9,8 @@ yarn install
 ```
 yarn run serve
 ```
-
+cnpm install mint-ui --save
+cnpm install better-scroll --save
 ### Compiles and minifies for production
 ```
 yarn run build
