@@ -1,5 +1,5 @@
 # eleme-app
-
+测试帐号：18851852800 验证码：276559
 ## Project setup
 ```
 yarn install
